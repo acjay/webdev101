@@ -14,3 +14,7 @@ I was briefly a high school teacher, and I’m still passionate about education.
 - You should know what information you can safely ignore for a given goal.
 
 That last point is important. I've seen many a newcomer get lost applying a whole raft of unnecessary technology to solve simple problems. In this space the ability to filter information is just as important as the ability to understand it.
+
+## The process
+
+The plan here is to start with the parts of a web application that are closest to the user experience. We'll explore what can be done in a single file that lives on your computer. As we hit the limitations of that setup, we'll add new pieces to get beyond those limitations. We're not going to look at a whole lot of code in the process. But first, let's discuss [what we mean by web application](https://github.com/acjay/webdev101/blob/master/01-What_is_a_web_application.md).
